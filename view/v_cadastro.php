@@ -12,8 +12,9 @@
     <input type="taxt" class="form-control">
     <label class="form-label pt-3">Curso</label>
     <input type="taxt" class="form-control">
-    <br>
+<div class=" container mt-2 d-flex justify-content-end">
     <a href="" class="btn btn-primary">Salvar</a>
+</div>
 </form>
 </div>
 
