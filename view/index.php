@@ -1,5 +1,5 @@
 <?php include("blades/top.php"); ?>
-<?php include("../controller/funcao-tabela.php"); ?>
+<?php include("../controller/funcao-read-aluno-tap.php"); ?>
 
 
 <div class="container mt-5">
